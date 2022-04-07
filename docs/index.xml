@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Jorge Alexis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://jorgealexis07.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jorgealexis07.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://jorgealexis07.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorgealexis07.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola!, Estoy orgulloso de haber tenido la oportunidad de tomar este programa de INNOVACION VIRTUAL por parte de Microsoft, en los que he conocido a personas tan increibles que enseñan y comparten su conocimiento con la comunidad, todo esto me hace sentir muy feliz.
+Quiero contarte todo lo que he aprendido en este camino:
+ Python He aprendido a utilizar Jupiter notebook HTML CSS UX/UI Javascript. Un poco de Angular CMD.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas de la cultura de un desarrollador de software.</title>
       <link>https://jorgealexis07.github.io/my_launchx_blog/posts/intro/</link>
